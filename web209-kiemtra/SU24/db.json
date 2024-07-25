@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "name": "Sản phẩm 11",
+      "price": "1100",
+      "categoryId": 2,
+      "description": "Mô tả sản phẩm 11",
+      "discount": "50",
+      "countInStock": "1000",
+      "featured": false,
+      "id": "11"
+    },
+    {
+      "id": "e9b5",
+      "name": "San pham 1",
+      "price": "111",
+      "description": "2"
+    },
+    {
+      "name": "san pham 2 update",
+      "price": "268",
+      "description": "",
+      "id": "1578"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Danh mục 1"
+    },
+    {
+      "id": "2",
+      "name": "Danh mục 2"
+    }
+  ]
+}
